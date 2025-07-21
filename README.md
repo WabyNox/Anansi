@@ -15,7 +15,6 @@ Before using Anansi, make sure your system has:
 
 You can install them using:
 
-```bash
 sudo apt install openvpn jq curl
 
 ## Setup
@@ -83,7 +82,7 @@ You can also call scripts directly:
 
 - mullvad_userpass.txt may have unsafe permissions by default. For now, fix it manually:
 
-	chmod 600 mullvad_config/mullvad_userpass.txt
+	  chmod 600 mullvad_config/mullvad_userpass.txt
 
 - ipinfo.io is used to show current IP and geolocation. A more privacy-friendly alternative is being considered.
 
