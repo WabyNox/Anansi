@@ -21,7 +21,7 @@ sudo apt install openvpn jq curl
 
 Clone the repository:
 
-	git clone https://github.com/yourusername/anansi.git
+	git clone https://github.com/WabyNox/Anansi.git
 	cd anansi
 
 Run the setup script:
